@@ -15,6 +15,8 @@ SELECT FamilySize,
 FROM marketing_data
 GROUP BY FamilySize;
 
+<img width="658" height="374" alt="image" src="https://github.com/user-attachments/assets/b999f5ab-0d53-4255-bb38-d71ae58759ec" />
+
 
 <img width="1351" height="586" alt="image" src="https://github.com/user-attachments/assets/844b2a9e-9635-41d9-ba59-2be72269b840" />
 
